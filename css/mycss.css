@@ -1,0 +1,70 @@
+body{
+	margin:0;
+	padding:0;
+	font-family:'Helvetica Neue LT Std';
+	font-size:14px;
+	font-weight:400;
+}
+
+article,aside,header,footer,nav,section{
+	display:block;
+}
+#myNavbar{
+	text-transform:uppercase;
+}
+
+.navbar-inverse{
+	background:#495d30;
+	border:#22420e73;
+}
+
+.navbar-collapse{
+	border:#22420e73;
+}
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+	background:#22420e73;
+	color:#fff;
+}
+	
+#nirf{
+	font-size:25px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+#rating{
+	font-size:15px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+footer{
+	background:#d9d4d5;
+	padding:40px 0px;
+	position:relative;
+	left:0px;
+	right:0px;
+	clear:left;
+}
+
+.bottom-footer a{
+	
+	padding: 2% 3%;
+}
+	
+.deadlines{
+	margin:5%;
+	background:#d9d4d5;
+	
+}
+
+
+.deadlines img{
+	padding-left:5%;
+}
+
+.deadlines h3{
+	padding-left:5%;
+}
+
+
+	
